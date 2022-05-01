@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+
+  "name": "User Backgrounds",
+  "description": "Uses banners from USRBG, a custom user backgrounds database",
+
+  "tags": ["ui"],
+
+  "authors": ["506482395269169153"],
+
+  "version": "1.0.0"
+}
